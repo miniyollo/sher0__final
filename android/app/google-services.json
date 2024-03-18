@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210423840068",
+    "project_id": "sheroproject",
+    "storage_bucket": "sheroproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210423840068:android:6bcb79eb056d6095b96b11",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZx6xCsaVoyDBzpKviXpEG-IWMtwT6mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
