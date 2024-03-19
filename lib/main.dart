@@ -2,7 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:sher0__final/screens/Auth/Login.dart';
 import 'package:sher0__final/screens/emergency/govnumbers.dart';
-import 'package:sher0__final/screens/locations/live_loc';
+
 import 'package:sher0__final/screens/locations/locations.dart';
 
 import 'screens/contacts/contact_screen.dart';
@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
           ),
       // home: LoginPage(),
       // home : GovContactsPage(),
-      home : SafePlacesPage(),
+      home: SafePlacesPage(),
       // home :MyLocationApp()
     );
   }
